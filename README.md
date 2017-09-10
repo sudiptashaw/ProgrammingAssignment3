@@ -1,5 +1,5 @@
 # Programming Assignment 3
-Getting and Cleaning Data Coursera Project Assignment
+## Getting and Cleaning Data Coursera Project Assignment
 
 This repository contains the R code and documentation files for Coursera's Data Science specialization course "Getting and Cleaning data".
 
@@ -13,8 +13,8 @@ This repository contains the R code and documentation files for Coursera's Data 
 
 `README.md.md` is this file you are reading now.
 
-`CodeBook.md` describes the how to use variables, data, and any transformations or work that was performed to clean up the data.
+`CodeBook.md` describes the how to use variables, their values including units, and any transformations or work that was performed to clean up the data.
 
-`run_analysis.R` contains all the code to perform the cleanup and analysis described in the 5 steps. They can be launched in RStudio by just importing the file.
+`run_analysis.R` contains all the code to perform the cleanup and analysis described in the 5 steps.
 
 `subject_activity_avg.txt` is the output of the 5th step.
