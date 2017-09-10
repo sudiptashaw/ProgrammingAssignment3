@@ -11,7 +11,7 @@ This repository contains the R code and documentation files for Coursera's Data 
 
 ## Files
 
-`README.md.md` is this file you are reading now.
+`README.md` is this file you are reading now.
 
 `CodeBook.md` describes the how to use variables, their values including units, and any transformations or work that was performed to clean up the data.
 
